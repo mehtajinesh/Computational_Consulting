@@ -1,2 +1,0 @@
-# Computational Consulting
-Computational Consulting
